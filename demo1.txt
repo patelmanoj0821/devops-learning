@@ -1,1 +1,1 @@
-stash check hello from demo1
+hello from demo1
